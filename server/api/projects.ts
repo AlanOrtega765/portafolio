@@ -5,7 +5,7 @@ export default defineEventHandler(() => {
       title: 'Movies Hub',
       description:
         '¡Bienvenido a mi página web de información cinematográfica! Aquí encontrarás un ejemplo destacado de mi habilidad para integrar la API de The Movie DB y crear una plataforma completa y funcional dedicada a películas, series y personas del mundo del entretenimiento.',
-      image_path: '/images/projects/movies-hub.png',
+      image_path: '/movies-hub.png',
       page_url: 'https://movies-hub-765.netlify.app/',
       icons: [
         {
@@ -27,7 +27,7 @@ export default defineEventHandler(() => {
       title: 'Batatabit',
       description:
         'Batatabit es una plataforma de criptomonedas diseñada para inversores y entusiastas que desean aprender, explorar y participar en el emocionante mundo de las criptomonedas. He creado una representación personalizada de Batatabit, donde puedes obtener una idea clara de su propósito y funcionalidad.',
-      image_path: '/images/projects/batatabit.png',
+      image_path: '/batatabit.png',
       page_url: 'https://alanortega765.github.io/batatabit-app/',
       icons: [
         {
@@ -45,7 +45,7 @@ export default defineEventHandler(() => {
       title: 'Proyecto 3',
       description:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
-      image_path: '/images/bg-gray.png',
+      image_path: '/bg-gray.png',
       page_url: '#',
       icons: [],
     },
@@ -54,7 +54,7 @@ export default defineEventHandler(() => {
       title: 'Proyecto 4',
       description:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
-      image_path: '/images/bg-gray.png',
+      image_path: '/bg-gray.png',
       page_url: '#',
       icons: [],
     },
@@ -63,7 +63,7 @@ export default defineEventHandler(() => {
       title: 'Proyecto 5',
       description:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
-      image_path: '/images/bg-gray.png',
+      image_path: '/bg-gray.png',
       page_url: '#',
       icons: [],
     },
@@ -72,7 +72,7 @@ export default defineEventHandler(() => {
       title: 'Proyecto 6',
       description:
         'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
-      image_path: '/images/bg-gray.png',
+      image_path: '/bg-gray.png',
       page_url: '#',
       icons: [],
     },
