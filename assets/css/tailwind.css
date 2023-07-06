@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-karla bg-midnight-blue text-just-white;
+  }
+  section {
+    @apply laptop:w-[80%] desktop:w-[70%] large-desktop:w-[60%] laptop:mx-auto;
+  }
+  h2 {
+    @apply text-center w-full text-lg desktop:text-xl large-desktop:text-2xl font-semibold bg-just-white h-fit text-midnight-blue rounded-full py-2 drop-shadow-white;
+  }
+  a, img { -webkit-tap-highlight-color: rgba(0,0,0,0); }
+}
