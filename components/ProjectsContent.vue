@@ -1,18 +1,4 @@
 <script setup lang="ts">
-interface Project {
-  id: number;
-  title: string;
-  description: string;
-  image_path: string;
-  page_url: string;
-  icons: {
-    icon: {
-      id: number;
-      name: string;
-    };
-  };
-}
-
 const projects = ref([
   {
     id: 1,
