@@ -29,7 +29,7 @@ const scrollTo = (id: string) => {
       class="flex justify-between px-4 items-center h-full laptop:w-[90%] desktop:w-[70%] large-desktop:w-[60%] laptop:mx-auto"
     >
       <NuxtLink @click="scrollTo('home')">
-        <nuxt-img class="py-1 w-[55px]" format="webp" src="/chinchilla.webp" />
+        <nuxt-img class="py-1 w-[55px]" format="webp" src="/images/chinchilla.webp" />
       </NuxtLink>
       <span class="text-2xl font-bold laptop:hidden">Mi Portfolio</span>
       <nav
