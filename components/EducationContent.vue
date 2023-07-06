@@ -2,12 +2,12 @@
 const show = ref(false);
 const activeImage = ref('');
 const images = ref([
-  '/certificado-curso-ajax-ws.png',
-  '/certificado-curso-javascript.png',
-  '/certificado-curso-js-dom.png',
-  '/certificado-curso-js-poo.png',
-  '/certificado-curso-sass.png',
-  '/certificado-curso-vue.png',
+  '/images/certificado-curso-ajax-ws.png',
+  '/images/certificado-curso-javascript.png',
+  '/images/certificado-curso-js-dom.png',
+  '/images/certificado-curso-js-poo.png',
+  '/images/certificado-curso-sass.png',
+  '/images/certificado-curso-vue.png',
 ]);
 
 const showImage = (image: string) => {

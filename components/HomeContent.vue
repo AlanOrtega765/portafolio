@@ -19,7 +19,7 @@
     <nuxt-img
       class="w-[250px] tablet:w-[300px] laptop:w-[350px] desktop:w-[400px] laptop:place-self-end rounded-lg tablet:col-span-1 mx-auto laptop:mx-0"
       quality="80"
-      src="/computer-dev.webp"
+      src="/images/computer-dev.webp"
     />
   </div>
 </template>
