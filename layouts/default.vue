@@ -33,7 +33,7 @@ const scrollTo = (id: string) => {
       </NuxtLink>
       <span class="text-2xl font-bold laptop:hidden">Mi Portfolio</span>
       <nav
-        class="absolute top-0 left-0 w-full px-4 -translate-y-full opacity-0 bg-midnight-blue laptop:bg-transparent shadow-md shadow-black laptop:shadow-none pb-4 laptop:p-0 transition-transform laptop:relative"
+        class="absolute top-0 left-0 w-full h-full px-4 -translate-y-full opacity-0 bg-midnight-blue laptop:bg-transparent shadow-md shadow-black laptop:shadow-none pb-4 laptop:p-0 transition-transform laptop:relative"
         :class="
           open
             ? 'translate-y-0 opacity-100 top-20'
