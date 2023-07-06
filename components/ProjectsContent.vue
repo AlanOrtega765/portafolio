@@ -101,7 +101,6 @@ const swiperBreakpoints = {
   },
 };
 
-// const { data: projects } = await useFetch<Project[]>('/api/projects');
 const slidePrev = () => {
   swiperRef.value.$el.swiper.slidePrev();
 };
