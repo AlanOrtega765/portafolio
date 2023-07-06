@@ -5,7 +5,7 @@
       <div class="bg-just-white rounded-full">
         <nuxt-img
           class="rounded-full object-cover w-[150px] h-[150px] laptop:w-[200px] laptop:h-[200px] desktop:w-[250px] desktop:h-[250px] large-desktop:w-[300px] large-desktop:h-[300px]"
-          src="/yo.png"
+          src="/images/yo.png"
           format="webp"
         />
       </div>
