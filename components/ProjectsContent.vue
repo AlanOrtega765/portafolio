@@ -117,7 +117,7 @@ onMounted(() => {
   <div class="flex flex-col px-4 laptop:px-0">
     <h2>Mis Proyectos</h2>
     <div class="pt-24">
-      <div v-if="loading" class="relative">
+      <div v-show="loading" class="relative">
         <Swiper
           ref="swiperRef"
           class="relative w-full h-[400px] tablet:h-[500px]"
