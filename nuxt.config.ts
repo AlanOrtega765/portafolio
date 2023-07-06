@@ -22,9 +22,6 @@ export default defineNuxtConfig({
       title: 'Mi Portafolio | Alan Ortega',
     },
   },
-  image: {
-    dir: 'assets/images',
-  },
   modules: ['@nuxt/image', '@nuxtjs/tailwindcss', 'nuxt-swiper', 'nuxt-icon'],
   devtools: { enabled: true },
 });
