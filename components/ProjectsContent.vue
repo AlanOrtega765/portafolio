@@ -42,12 +42,25 @@ const projects = ref([
   },
   {
     id: 3,
-    title: 'Proyecto 3',
+    title: 'Appolly',
     description:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
+      'Appolly es una landing page elegante y funcional diseñada para presentar una emocionante aplicación móvil. El sitio web ofrece una experiencia intuitiva para los visitantes, presentando las características y beneficios clave de la aplicación de manera atractiva. Desde su diseño limpio hasta sus llamativos gráficos, Appolly está diseñada para atraer a los usuarios y convertirlos en entusiastas usuarios de una app móvil.',
     image_path: '/images/appolly.png',
     page_url: '#',
-    icons: [],
+    icons: [
+      {
+        id: 1,
+        name: 'logos:vue',
+      },
+      {
+        id: 2,
+        name: 'logos:nuxt-icon',
+      },
+      {
+        id: 3,
+        name: 'logos:tailwindcss-icon',
+      },
+    ],
   },
   {
     id: 4,
