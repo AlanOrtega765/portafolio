@@ -154,9 +154,9 @@ onMounted(() => {
                 format="webp"
                 quality="80"
               />
-              <article class="flex flex-col gap-y-4 p-4">
-                <div class="flex items-center gap-x-4">
-                  <h3 class="text-lg tablet:text-xl font-semibold">
+              <article class="flex flex-col gap-y-2 p-4">
+                <div class="flex flex-col gap-x-4 gap-y-2 tablet:flex-row">
+                  <h3 class="text-base tablet:text-xl font-semibold">
                     {{ project.title }}
                   </h3>
                   <ul class="flex gap-x-4">
@@ -172,7 +172,9 @@ onMounted(() => {
                     </li>
                   </ul>
                 </div>
-                <p class="text-sm tablet:text-base text-gray-300 leading-tight">
+                <p
+                  class="text-sm tablet:text-base text-gray-300 leading-tight line-clamp-[10]"
+                >
                   {{ project.description }}
                 </p>
               </article>
