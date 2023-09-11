@@ -45,7 +45,7 @@ const projects = ref([
     title: 'Proyecto 3',
     description:
       'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et, consequuntur repellat fuga veritatis ex a sint assumenda deleniti corrupti magnam porro consequatur accusantium similique aut molestiae repellendus minus reiciendis eligendi.',
-    image_path: '/images/bg-gray.png',
+    image_path: '/images/appolly.png',
     page_url: '#',
     icons: [],
   },
