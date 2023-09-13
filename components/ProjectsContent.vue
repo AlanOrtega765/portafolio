@@ -46,7 +46,7 @@ const projects = ref([
     description:
       'Appolly es una landing page elegante y funcional diseñada para presentar una emocionante aplicación móvil. El sitio web ofrece una experiencia intuitiva para los visitantes, presentando las características y beneficios clave de la aplicación de manera atractiva. Desde su diseño limpio hasta sus llamativos gráficos, Appolly está diseñada para atraer a los usuarios y convertirlos en entusiastas usuarios de una app móvil.',
     image_path: '/images/appolly.png',
-    page_url: '#',
+    page_url: 'https://appolly-app.netlify.app/',
     icons: [
       {
         id: 1,
